@@ -7,7 +7,6 @@ export default function extractSpecialAttacks({ special }) {
     }));
 }
 
-// Примеры использования
 const character = {
     name: 'Лучник',
     type: 'Bowman',

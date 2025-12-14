@@ -1,7 +1,7 @@
 import extractSpecialAttacks from '../js/attacs';
 
-describe('Тестирование функции extractSpecialAttacks', () => {
-    test('Базовый случай', () => {
+describe('testing function extractSpecialAttacks', () => {
+    test('base case', () => {
         const character = {
             name: 'Лучник',
             type: 'Bowman',
